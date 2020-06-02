@@ -1,0 +1,2 @@
+# IMDb-movie-sentiment-analysis-keras
+A sentiment score between 0.0 and 1.0 can be achieved by inputting the movie review text into the function. The function uses a model with 4 layers of deep learning including 2 hidden layers using Keras library of Python implemented under TensorFlow backend. The model can also be used for general sentiment analysis because the sentiments aren't specific to movie reviews.
